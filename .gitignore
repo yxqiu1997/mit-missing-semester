@@ -1,0 +1,7 @@
+.DS_Store
+
+*.aux
+*.log
+
+lecture6/missing-semester/
+lecture9/debian-mac-11.2.0-amd64-netinst.iso

@@ -1,0 +1,2 @@
+2020-04-29 09:46:04.022430+0900 0x0        Timesync    0x0                  0      0    === system boot: C4C57548-7964-483A-A0E9-8FD49A6088C6
+2020-04-29 09:46:04.683152+0900 0xa9       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
